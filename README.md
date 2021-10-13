@@ -7,8 +7,7 @@
 
 I am a software developer. I love programming, solving puzzles and traveling.
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif" width="408" height="318" />
-  
+<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
 **Talking about Personal Stuffs:**
 
