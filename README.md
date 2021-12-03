@@ -18,6 +18,7 @@ I am a software developer. I love programming, solving puzzles and traveling.
 - 📫 How to reach me: qmuskan467@gmail.com;
 
 </br>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=muskan467&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
