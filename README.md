@@ -18,7 +18,6 @@ I am a software developer. I love programming, solving puzzles and traveling.
 - 📫 How to reach me: qmuskan467@gmail.com;
 
 </br>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=muskan467&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -41,7 +40,7 @@ I am a software developer. I love programming, solving puzzles and traveling.
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan467&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p width="100%" align="center">
+          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
 </p>
