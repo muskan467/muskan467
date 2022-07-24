@@ -15,7 +15,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
 - 👨🏻‍💻 I’m currently working on Machine Learning;
 - 🚀 I’m currently learning Dotnet;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: qmuskan467@gmail.com;
+- 📫 How to reach me: qmuskan467@gmail.com;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
 
 </br>
 
@@ -64,7 +64,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
 </p>
 
 
-📈 **My GitHub Stats:**
+**My GitHub Stats:**<img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif"><br>
 
 <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
