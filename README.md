@@ -63,13 +63,12 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
 <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" />
 <a href="https://jupyter.org/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a>
 </p>
-
+<a href="https://github.com/muskan467/github-readme-stats"><img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan467&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 **My GitHub Stats:**<img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif"><br>
 
 <p width="100%" align="center">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
 </p>
-<a href="https://github.com/muskan467/github-readme-stats"><img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan467&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
