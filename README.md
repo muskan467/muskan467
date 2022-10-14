@@ -34,7 +34,9 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
   
  </p>
 
-
+<p align="right">
+  <a href="https://github.com/muskan467/github-readme-stats"><img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan467&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
  <h3 align="left">Frameworks/Libraries :</h3>
 
