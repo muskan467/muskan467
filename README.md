@@ -12,7 +12,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on Machine Learning;
+- 👨🏻‍💻 I’m currently working on Dotnet full stack;
 - 🚀 I’m currently learning Dotnet;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: qmuskan467@gmail.com;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
@@ -71,3 +71,5 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelin
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
 </p>
+<a href="https://github.com/muskan467/github-readme-stats"><img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan467&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
