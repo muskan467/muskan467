@@ -1,14 +1,15 @@
 ## Hi there, I'm <b>Muskan Ali Qureshi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="banner.png" >
 
 <img src="https://camo.githubusercontent.com/91f89765f55f7c4c6ca42321ffd628ee83370fc902f6c7282b38647b4339603e/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6761757261766461733031342e676175726176646173303134" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=muskan467/muskan467" style="max-width: 100%;">
+<img width="48%" align="right" src="banner.png" >
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-ali-qureshi-8404271a0/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Muskan467786)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imuskan.qureshi/)
 [![TelegramBadge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/muskan_4670)
 
-<img align="right" width=45% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
+<!-- <img align="right" width=45% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"> -->
 
 I am an aspiring Web developer. I love programming, solving puzzles and travelling.
 
@@ -62,8 +63,6 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 
 **My GitHub Stats:**<br>
 
-<p width="100%" align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
 <br />
