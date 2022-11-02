@@ -95,11 +95,13 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
-        <td><img width="40" height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
-                alt="Visual Studio" /></td>
+        <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio"> <img 
+                    src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" width="40" height="40"/></a></td>
         <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+            </a></td>
+        <td><a href="https://about.gitlab.com" target="gitlab"> <img 
+                    src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" width="40" height="40"/>  
             </a></td>
     </tr>
     <tr>
