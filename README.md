@@ -75,7 +75,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
                     alt="angular" width="40" height="40" /></a></td>
-        <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
+        <td bgcolor="green"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                     alt="express" width="40" height="40" /> </a></td>
         <td><img width="40" height="40"
