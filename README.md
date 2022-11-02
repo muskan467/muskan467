@@ -37,10 +37,10 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                     width="40" height="40" /> </a></td>
-        <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                     alt="cplusplus" width="40" height="40" /> </a></td>
-        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" /> </a>
         <td><a href="https://www.w3schools.com/cs/" target="_blank"> <img
@@ -74,11 +74,11 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
                     alt="nodejs" width="40" height="40" /> </a></td>
         <td></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-                    alt="angular" width="30" height="30" /></a></td>
+                    alt="angular" width="40" height="40" /></a></td>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                    alt="express" width="70" height="50" /> </a></td>
-        <td><img width="30" height="30"
+                    alt="express" width="40" height="40" /> </a></td>
+        <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
                 alt=".NET Core" /></td>
     </tr>
@@ -95,7 +95,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
-        <td><img width="30" height="30"
+        <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
                 alt="Visual Studio" /></td>
         <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
@@ -103,20 +103,20 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
             </a></td>
     </tr>
     <tr>
-        <td><img width="30" height="30"
+        <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
                 alt="JetBrains" /></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img
-                    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                    height="40" /> </a></td>
-        <td><img width="30" height="30"
+                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+                height="40" /> </a></td>
+        <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
                 alt="npm" /></td>
-        <td><img width="30" height="30"
+        <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
                 alt="DigitalOcean" /></td>
-        <td><a href="https://jupyter.org/documentation"><img height="35"
-                    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a>
+        <td><a href="https://jupyter.org/documentation"><img width="40" height="40"
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a>
         </td>
     </tr>
 </table>
