@@ -95,10 +95,9 @@ width=50px height=50px>
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
         <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="noreferrer"> <img 
-                    src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" width="40" height="40"/></a></td>
+                    src="https://e7.pngegg.com/pngimages/190/711/png-clipart-microsoft-visual-studio-entity-framework-microsoft-developer-network-asp-net-microsoft-                     purple-angle.png" alt="Visual Studio" width="40" height="40"/></a></td>
         <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-            </a></td>
+                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
         <td><a href="https://about.gitlab.com" target="gitlab" title="Gitlab" rel="noreferrer"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" width="40" height="40"/>  
             </a></td>
