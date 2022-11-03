@@ -24,8 +24,8 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
     width=50px height=50px>
 
 
-- 👨🏻‍💻 I'm currently working on Dotnet full stack;
-- 🚀 I'm currently learning Dotnet;
+- 👨🏻‍💻 I'm currently working on React;
+- 🚀 I'm currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: qmuskan467@gmail.com;
 
