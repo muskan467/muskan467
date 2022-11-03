@@ -19,10 +19,10 @@ Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Tele
 
 I am an aspiring Web developer. I love programming, solving puzzles and travelling.
 
-**Talking about Personal Stuffs:**
 <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
-    width=50px height=50px>
-
+width=50px height=50px>
+    
+**Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I'm currently working on React;
 - 🚀 I'm currently learning React;
@@ -75,7 +75,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td><a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
                     alt="angular" width="40" height="40" /></a></td>
-        <td bgcolor="green"><a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS"><img
+        <td><a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS"><img
                     src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
                     alt="express" width="40" height="40" /> </a></td>
         <td><img width="40" height="40"
