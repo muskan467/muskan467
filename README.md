@@ -34,30 +34,30 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 <h3 align="left">Languages :</h3>
 <table>
     <tr>
-        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                     width="40" height="40" /> </a></td>
-        <td><a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer" title="C++"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                     alt="cplusplus" width="40" height="40" /> </a></td>
-        <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer" title="JavaScript"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" /> </a>
-        <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
                     alt="csharp" width="40" height="40" /> </a></td>
-        <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                     alt="typescript" width="40" height="40" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.python.org" target="_blank" rel="noreferrer" title="Pyhon"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a></td>
-        <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                     alt="html5" width="40" height="40" /> </a></td>
-        <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="40" height="40" /></a></td>
     </tr>
@@ -66,21 +66,21 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 <h3 align="left">Frameworks/ Libraries :</h3>
 <table>
     <tr align="left">
-        <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap5"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                     alt="bootstrap" width="40" height="40" /> </a></td>
-        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                     alt="nodejs" width="40" height="40" /> </a></td>
-        <td><a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
                     alt="angular" width="40" height="40" /></a></td>
-        <td bgcolor="green"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
+        <td bgcolor="green"><a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS"><img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                     alt="express" width="40" height="40" /> </a></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-                alt=".NET Core" rel="noreferrer"/></td>
+                alt=".NET Core" rel="noreferrer" title=".Net Core"/></td>
     </tr>
 </table>
 <h3 align="left">Tools and Softwares :</h3>
@@ -107,18 +107,18 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
     <tr>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
-                alt="JetBrains" rel="noreferrer"/></td>
+                alt="JetBrains" rel="noreferrer" title="JetBrains"/></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                height="40" /> </a></td>
+                height="40" title="Postman"/> </a></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-                alt="npm" rel="noreferrer" /></td>
+                alt="npm" rel="noreferrer" title="npm"/></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
-                alt="DigitalOcean" rel="noreferrer" /></td>
+                alt="DigitalOcean" rel="noreferrer" title="Digital Ocean"/></td>
         <td><a href="https://jupyter.org/documentation"><img width="40" height="40"
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" rel="noreferrer"></a>
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" rel="noreferrer" title="Jupyter"></a>
         </td>
     </tr>
 </table>
