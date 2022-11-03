@@ -76,7 +76,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
                     alt="angular" width="40" height="40" /></a></td>
         <td bgcolor="green"><a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
                     alt="express" width="40" height="40" /> </a></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
