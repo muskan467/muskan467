@@ -20,7 +20,7 @@ Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Tele
 I am an aspiring Web developer. I love programming, solving puzzles and travelling.
 
 <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
-width=50px height=50px>
+width="50px" height="50px">
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I'm currently working on React;
@@ -48,11 +48,11 @@ width=50px height=50px>
         <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                     alt="typescript" width="40" height="40" /></a></td>
-    </tr>
-    <tr>
         <td><a href="https://www.python.org" target="_blank" rel="noreferrer" title="Pyhon"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a></td>
+    </tr>
+    <tr>
         <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                     alt="html5" width="40" height="40" /> </a></td>
@@ -70,16 +70,16 @@ width=50px height=50px>
                     alt="bootstrap" width="40" height="40" /> </a></td>
         <td><a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /> </a></td>
+                    alt="nodejs" width="40" height="40"> </a></td>
         <td><a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-                    alt="angular" width="40" height="40" /></a></td>
+                    alt="angular" width="40" height="40"> </a></td>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS"><img
                     src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-                    alt="express" width="40" height="40" /> </a></td>
+                    alt="express" width="40" height="40"> </a></td>
         <td><img width="40" height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-                alt=".NET Core" rel="noreferrer" title=".Net Core"/></td>
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+                    alt=".NET Core" rel="noreferrer" title=".Net Core"/></td>
     </tr>
 </table>
 <h3 align="left">Tools and Softwares :</h3>
@@ -97,34 +97,34 @@ width=50px height=50px>
         <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="noreferrer"> <img 
                     src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" 
                     alt="Visual Studio" width="40" height="40"/></a></td>
-        <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
+        <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+                    alt="git" width="40" height="40" /></a></td>
         <td><a href="https://about.gitlab.com" target="gitlab" title="Gitlab" rel="noreferrer"> <img 
-                    src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" width="40" height="40"/>  
-            </a></td>
+                    src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" 
+                    alt="Gitlab" width="40" height="40"/></a></td>
     </tr>
     <tr>
         <td><a href="https://www.jetbrains.com/pycharm/" rel="noreferrer" title="PyCharm"> <img 
-                src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="40" 
-                height="40"/></a></td>
+                    src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="40" 
+                    height="40"/></a></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img
-                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                height="40" title="Postman"/> </a></td>
+                    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+                    height="40" title="Postman"/> </a></td>
         <td><img width="40" height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-                alt="npm" rel="noreferrer" title="npm"/></td>
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+                    alt="npm" rel="noreferrer" title="npm"/></td>
         <td><img width="40" height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
-                alt="DigitalOcean" rel="noreferrer" title="Digital Ocean"/></td>
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
+                    alt="DigitalOcean" rel="noreferrer" title="Digital Ocean"/></td>
         <td><a href="https://jupyter.org/documentation"><img width="40" height="40"
-                src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"                         
-                rel="noreferrer" title="Jupyter"></a></td>
+                    src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"                         
+                    rel="noreferrer" title="Jupyter"></a></td>
         <td><a href="https://colab.research.google.com" target="_blank" rel="noreferrer"><img width="40" height="40" 
-                src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
-                title="Colab" alt="Open In Colab"/></a></td>
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
+                    title="Colab" alt="Open In Colab"/></a></td>
     </tr>
 </table>
-
 
 **My GitHub Stats:**<br>
 
