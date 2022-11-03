@@ -105,9 +105,9 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
             </a></td>
     </tr>
     <tr>
-        <td><img width="40" height="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
-                alt="JetBrains" rel="noreferrer" title="JetBrains"/></td>
+        <td><a href="https://www.jetbrains.com/pycharm/" rel="noreferrer" title="PyCharm"> <img 
+                src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="40" 
+                height="40"/></a></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
                 height="40" title="Postman"/> </a></td>
