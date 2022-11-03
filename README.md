@@ -16,7 +16,7 @@ Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Tele
 
 <!-- <img align="right" width=45% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"> -->
 
-I am an aspiring Web developer. I love programming, solving puzzles and travelling.
+I am an aspiring Web developer. I love programming, solving puzzles and travelling.<br/>
 
 <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
 width="50px" height="50px">
@@ -124,6 +124,7 @@ width="50px" height="50px">
                     title="Colab" alt="Open In Colab"/></a></td>
     </tr>
 </table>
+<br/><br/><br/><br/>
 
 **My GitHub Stats:**<br>
 
