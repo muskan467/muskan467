@@ -5,7 +5,6 @@
     style="max-width: 100%;">
 <img width="48%" align="right" src="images/banner.png">
 
-
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-qureshi/)
 [![Twitter
@@ -131,4 +130,4 @@ width="50px" height="50px">
 <img width="48%"
     src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
-<br />
+<br /><br />
