@@ -130,4 +130,12 @@ width="50px" height="50px">
 <img width="48%"
     src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
-<br /><br />
+<br />
+
+## Contributions Space 🎲
+
+<p align="center">
+ <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.srmkzilla.net/assets/img/hacktoberfest.svg" height="80px"></a>
+ <a href="https://ssoc.devfolio.co/"><img src="https://ssoc.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fc1573e1780a9481e97869fcd6fbb07fa%2Fassets%2Ffavicon%2F270.png&w=1440&q=75" height="60px"></a>
+ <a href="https://hacktoberfest.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px"></a>
+</p> 
