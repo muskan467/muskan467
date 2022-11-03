@@ -43,7 +43,7 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
         <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" /> </a>
-        <td><a href="https://www.w3schools.com/cs/" target="_blank"> <img
+        <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
                     alt="csharp" width="40" height="40" /> </a></td>
         <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
@@ -80,45 +80,45 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
                     alt="express" width="40" height="40" /> </a></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-                alt=".NET Core" /></td>
+                alt=".NET Core" rel="noreferrer"/></td>
     </tr>
 </table>
 <h3 align="left">Tools and Softwares :</h3>
 <table>
     <tr align="left">
-        <td><a href="https://www.mongodb.com/" target="_blank" title="MongoDB"> <img
+        <td><a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="40" height="40" /> </a></td>
-        <td><a href="https://www.mysql.com/" target="_blank" title="MySQL"> <img
+        <td><a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                     alt="mysql" width="40" height="40" /> </a></td>
-        <td><a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"> <img
+        <td><a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
-        <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio"> <img 
+        <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="noreferrer"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" width="40" height="40"/></a></td>
-        <td><a href="https://git-scm.com/" target="_blank" title="Git"><img
+        <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
             </a></td>
-        <td><a href="https://about.gitlab.com" target="gitlab"> <img 
+        <td><a href="https://about.gitlab.com" target="gitlab" title="Gitlab" rel="noreferrer"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" alt="Gitlab" width="40" height="40"/>  
             </a></td>
     </tr>
     <tr>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
-                alt="JetBrains" /></td>
+                alt="JetBrains" rel="noreferrer"/></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
                 height="40" /> </a></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-                alt="npm" /></td>
+                alt="npm" rel="noreferrer" /></td>
         <td><img width="40" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
-                alt="DigitalOcean" /></td>
+                alt="DigitalOcean" rel="noreferrer" /></td>
         <td><a href="https://jupyter.org/documentation"><img width="40" height="40"
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a>
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" rel="noreferrer"></a>
         </td>
     </tr>
 </table>
