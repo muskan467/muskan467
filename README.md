@@ -86,18 +86,18 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 <h3 align="left">Tools and Softwares :</h3>
 <table>
     <tr align="left">
-        <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.mongodb.com/" target="_blank" title="MongoDB"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="40" height="40" /> </a></td>
-        <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://www.mysql.com/" target="_blank" title="MySQL"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                     alt="mysql" width="40" height="40" /> </a></td>
-        <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+        <td><a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
         <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" width="40" height="40"/></a></td>
-        <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
+        <td><a href="https://git-scm.com/" target="_blank" title="Git"><img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
             </a></td>
         <td><a href="https://about.gitlab.com" target="gitlab"> <img 
