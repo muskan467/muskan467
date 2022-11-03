@@ -95,7 +95,7 @@ width=50px height=50px>
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
         <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="noreferrer"> <img 
-                    src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" 
+                    src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" 
                     alt="Visual Studio" width="40" height="40"/></a></td>
         <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
