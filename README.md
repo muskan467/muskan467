@@ -21,7 +21,6 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 
 <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
 width=50px height=50px>
-    
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I'm currently working on React;
