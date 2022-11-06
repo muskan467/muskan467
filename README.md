@@ -131,7 +131,7 @@ width="50px" height="50px">
 
 <p>
  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.srmkzilla.net/assets/img/hacktoberfest.svg" height="80px"></a>
- <a href="https://swoc.getsocialnow.co/"><img src="https://swoc.getsocialnow.co/img/logo-2.png" height="80px"></a>
+ <a href="https://swoc.getsocialnow.co/"><img src="https://swoc.getsocialnow.co/img/logo-2.png" height="60px"></a>
  <a href="https://ssoc.devfolio.co/"><img src="https://ssoc.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fc1573e1780a9481e97869fcd6fbb07fa%2Fassets%2Ffavicon%2F270.png&w=1440&q=75" height="60px"></a>
  <a href="https://hacktoberfest.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px"></a>
 </p> 
