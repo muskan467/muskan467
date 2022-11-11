@@ -22,8 +22,8 @@ I am an aspiring Web developer. I love programming, solving puzzles and travelli
 width="50px" height="50px">
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I'm currently working on React;
-- 🚀 I'm currently learning React;
+- 👨🏻‍💻 I'm currently working on .Net Core 3.1;
+- 🚀 I'm currently learning .Net Core;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:qmuskan467@gmail.com" class="btn">📩</a>;
 
