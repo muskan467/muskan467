@@ -126,7 +126,7 @@ width="50px" height="50px">
 </table>
 </br>
 
-## Contributions Space 🎲
+## Contributions Space <img height="23" src="https://media.giphy.com/media/6W7labESIQ4P3IECui/giphy.gif">
 
 <p>
  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.srmkzilla.net/assets/img/hacktoberfest.svg" height="80px"></a>
