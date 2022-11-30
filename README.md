@@ -60,7 +60,7 @@ width="50px" height="50px">
     </tr>
 </table>
 
-## Frameworks/ Libraries
+## Frameworks/ Libraries <img height="23" src="https://media.giphy.com/media/KQeWD8EtJRFZe/giphy.gif">
 <table>
     <tr align="left">
         <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap5"> <img
