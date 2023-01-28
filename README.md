@@ -137,7 +137,7 @@ width="50px" height="50px">
 
 ## My GitHub Stats <br>
 
-<img width="48.5%"
+<img width="48%"
     src="https://github-readme-stats.vercel.app/api?username=muskan467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan467&theme=tokyonight" />
 <br />
