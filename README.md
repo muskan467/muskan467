@@ -24,7 +24,7 @@ width="50px" height="50px">
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I'm currently working on .Net Core 3.1;
-- 🚀 I'm currently learning .Net Core;
+- 🚀 I'm currently learning C++;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:qmuskan467@gmail.com" class="btn">📩</a>;
 
