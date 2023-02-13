@@ -88,9 +88,12 @@ width="50px" height="50px">
         <td><a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="40" height="40" /> </a></td>
-        <td><a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"> <img
+        <td><a href="https://www.my
+            .com/" target="_blank" title="MySQL" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                     alt="mysql" width="40" height="40" /> </a></td>
+        <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img 
+                    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></td>
         <td><a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                     alt="vscode" width="40" height="40" /> </a></td>
