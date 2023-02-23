@@ -122,7 +122,9 @@ width="50px" height="50px">
                     alt="DigitalOcean" rel="noreferrer" title="Digital Ocean"/></td>
         <td><a href="https://jupyter.org/documentation"><img width="40" height="40"
                     src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"                         
-                    rel="noreferrer" title="Jupyter"></a></td>
+                    rel="noreferrer" title="Jupyter"></a></td>       
+    </tr>
+    <tr>
         <td><a href="https://colab.research.google.com" target="_blank" rel="noreferrer"><img width="40" height="40" 
                     src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
                     title="Colab" alt="Open In Colab"/></a></td>
