@@ -102,12 +102,12 @@ width="50px" height="50px">
                     alt="Visual Studio" width="40" height="40"/></a></td>
         <td><a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-                    alt="git" width="40" height="40" /></a></td>
+                    alt="git" width="40" height="40" /></a></td>        
+    </tr>
+    <tr>
         <td><a href="https://about.gitlab.com" target="gitlab" title="Gitlab" rel="noreferrer"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/gitlab.svg" 
                     alt="Gitlab" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
         <td><a href="https://www.jetbrains.com/pycharm/" rel="noreferrer" title="PyCharm"> <img 
                     src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="40" 
                     height="40"/></a></td>
