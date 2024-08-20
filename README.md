@@ -1,8 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Muskan<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30" /></h1>
 
-<img src="https://camo.githubusercontent.com/91f89765f55f7c4c6ca42321ffd628ee83370fc902f6c7282b38647b4339603e/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6761757261766461733031342e676175726176646173303134"
-    alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=muskan467/muskan467"
-    style="max-width: 100%;">
+<p>:round_pushpin: Profile views</p>
+<div>
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/muskan467/count.svg">
+</div>
 <img width="47%" align="right" src="images/banner.png">
 
 [![Linkedin
@@ -131,15 +132,6 @@ width="50px" height="50px">
     </tr>
 </table>
 </br>
-
-## Contributions Space <img height="23" src="https://media.giphy.com/media/6W7labESIQ4P3IECui/giphy.gif">
-
-<p>
- <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.srmkzilla.net/assets/img/hacktoberfest.svg" height="80px"></a>
- <a href="https://getsocialnow.social/"><img src="https://i0.wp.com/getsocialnow.social/wp-content/uploads/2022/04/cropped-92244F3D-BE15-4F0E-818E-9C8E470E7AA9.png?w=2000&ssl=1" height="60px"></a>
- <a href="https://ssoc.devfolio.co/"><img src="https://ssoc.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fc1573e1780a9481e97869fcd6fbb07fa%2Fassets%2Ffavicon%2F270.png&w=1440&q=75" height="60px"></a>
- <a href="https://hacktoberfest.com/"><img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" height="60px"></a>
-</p> 
 
 ## My GitHub Stats <br>
 
